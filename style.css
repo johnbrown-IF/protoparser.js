@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: serif;
+}
+
+/* Окно терминала */
+#terminal {
+    /*...*/
+}
+
+/* Область игрового вывода */
+#output {
+    /*...*/
+}
+
+/* Строка, содержащая команду пользователя */
+.userCommand {
+    font-weight: bold;
+}
+
+/* Приглашение ввода */
+#prompt {
+    display: inline-block;
+}
+
+/* Окно ввода команд */
+#input {
+    outline: none;
+    border: 0;  
+    font-weight: bold;
+    color: white;
+    background: transparent;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+/* Строка ввода */
+#inputLine {
+    /*...*/
+}
+
+/* Форма ввода */
+#form {
+  display: inline-block;
+}
